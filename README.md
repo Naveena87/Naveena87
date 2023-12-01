@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Naveena87
-- 👀 I’m interested in PLSQL DEVELOPER
-- 🌱 I’m currently learning PLSQL
+- 👀 I’m interested in DEVOPS ENGINEER
+- 🌱 I’m currently learning DEVOPS
 - 💞️ I’m looking to collaborate on any company
 - 📫 How to reach me duvvuru.naveena@gmail.com
 
