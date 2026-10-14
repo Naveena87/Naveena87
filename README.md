@@ -2,7 +2,7 @@
 - 👀 I’m interested in DEVOPS ENGINEER
 - 🌱 I’m currently learning DEVOPS
 - 💞️ I’m looking to collaborate on any company
-- 📫 How to reach me duvvuru.naveena@gmail.com
+- 📫 How to reach me naveena19duvvuru87@gmail.com
 
 <!---
 Naveena87/Naveena87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
